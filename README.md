@@ -2,6 +2,6 @@
 
 
 
-# UPDATE V2.1A
+# UPDATE ARCTIC
 
-Now is Undetectable and UnBannable
+Now is Undetectable and Unbannable
